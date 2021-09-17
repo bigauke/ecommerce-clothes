@@ -4,7 +4,7 @@
 
 Criei um site e-commerce usando HTML, CSS, Bootstrap 5, responsivo, dividi o site em algumas seções como: header, collection, offer, popular e footer. Usei um plugin isotope jquery para criar efeito de filtragem
 
-#Caractéristicas do site:
+#Características do site:
 navbar responsiva com menu hamburger;
 header slider ou carrosel;
 seção de blog;
